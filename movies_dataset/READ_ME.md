@@ -16,4 +16,4 @@
 - Средняя продолжительность фильма с 1980 года - 107 минут.
 
 ## Библиотеки
-*pandas*, *matplotlib*, *seaborn*
+*pandas*, *matplotlib*, *seaborn*, *numpy*
