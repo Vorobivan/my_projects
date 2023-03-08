@@ -26,4 +26,4 @@
 
 ## Библиотеки 
 
-*pandas*, *matplotlib*, *seaborn*, *plotly*
+*pandas*, *matplotlib*, *seaborn*, *plotly*, *folium*
